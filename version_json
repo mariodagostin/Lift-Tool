@@ -1,1 +1,23 @@
-[{"Lift-tool_Version":"1.0.77","release_date":"05\/25\/2023","new_features":["No Tracking"],"issues_fix":["No Tracking"]},{"Lift-tool_Version":"1.0.78","release_date":"06\/16\/2023","new_features":["Rolling Upgrade Duration Estimation besed on collected K8S data (VPS CNS Only)","Ask ChantGPY API integration"],"issues_fix":["None"]}]
+[
+  {
+    "Lift-tool_Version": "1.0.77",
+    "release_date": "05\\/25\\/2023",
+    "new_features": [
+      "No Tracking"
+    ],
+    "issues_fix": [
+      "No Tracking"
+    ]
+  },
+  {
+    "Lift-tool_Version": "1.0.79",
+    "release_date": "06\\/16\\/2023",
+    "new_features": [
+      "Rolling Upgrade Duration Estimation besed on collected K8S data (VPS CNS Only)",
+      "Ask ChantGPY API integration"
+    ],
+    "issues_fix": [
+      "None"
+    ]
+  }
+]
