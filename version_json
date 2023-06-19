@@ -14,7 +14,8 @@
     "release_date": "06/16/2023",
     "new_features": [
       "Rolling Upgrade Duration Estimation based on collected K8S data (VOS CNS Only)",
-      "Ask ChatGPY API integration"
+      "Ask ChatGPY API integration",
+      "VOS Update tracking changes"
     ],
     "issues_fix": [
       "None"
