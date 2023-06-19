@@ -10,7 +10,7 @@
     ]
   },
   {
-    "Lift-tool_Version": "1.0.78",
+    "Lift-tool_Version": "1.0.79",
     "release_date": "06/16/2023",
     "new_features": [
       "Rolling Upgrade Duration Estimation based on collected K8S data (VOS CNS Only)",
