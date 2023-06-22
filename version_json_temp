@@ -1,0 +1,34 @@
+[
+  {
+    "Lift-tool_Version": "1.0.77",
+    "release_date": "05/25/2023",
+    "new_features": [
+      "No Tracking"
+    ],
+    "issues_fix": [
+      "No Tracking"
+    ]
+  },
+  {
+    "Lift-tool_Version": "1.0.78",
+    "release_date": "06/16/2023",
+    "new_features": [
+      "Rolling Upgrade Duration Estimation based on collected K8S data (VOS CNS Only)",
+      "Ask ChatGPT API integration",
+      "VOS Update tracking changes"
+    ],
+    "issues_fix": [
+      "None"
+    ]
+  },
+  {
+    "Lift-tool_Version": "1.0.xx",
+    "release_date": "xxxx",
+    "new_features": [
+      "Return customerVersion in 'Get List of ProfileId Used'"
+    ],
+    "issues_fix": [
+      "None"
+    ]
+  }  
+]
