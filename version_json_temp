@@ -25,7 +25,8 @@
     "Lift-tool_Version": "1.0.xx",
     "release_date": "xxxx",
     "new_features": [
-      "Return customerVersion in 'Get List of ProfileId Used'"
+      "Return customerVersion in 'Get List of ProfileId Used'",
+      "CAS Scrambling API Integration" 
     ],
     "issues_fix": [
       "None"
