@@ -29,7 +29,7 @@
       "CAS Scrambling API Integration" 
     ],
     "issues_fix": [
-      "None"
+      "Get Transport Streams Table display issue"
     ]
   }  
 ]
