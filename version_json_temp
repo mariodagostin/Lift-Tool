@@ -26,6 +26,7 @@
     "release_date": "xxxx",
     "new_features": [
       "Return customerVersion in 'Get List of ProfileId Used'",
+      "/mux/v1/table-generators/{generatorId} API integration",
       "CAS Scrambling API Integration" 
     ],
     "issues_fix": [
