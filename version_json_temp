@@ -27,10 +27,12 @@
     "new_features": [
       "Return customerVersion in 'Get List of ProfileId Used'",
       "/mux/v1/table-generators/{generatorId} API integration",
-      "CAS Scrambling API Integration" 
+      "CAS Scrambling API Integration",
+      "TS File Analysis (Available from record page)" 
     ],
     "issues_fix": [
-      "Get Transport Streams Table display issue"
+      "Get Transport Streams Table display issue",
+      "TSoIP record using TSDUCK instead of FFmpeg"
     ]
   }  
 ]
