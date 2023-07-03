@@ -28,6 +28,7 @@
       "Return customerVersion in 'Get List of ProfileId Used'",
       "/mux/v1/table-generators/{generatorId} API integration",
       "CAS Scrambling API Integration",
+      "Transport Stream display improvements",
       "TS File Analysis (Available from record page)" 
     ],
     "issues_fix": [
