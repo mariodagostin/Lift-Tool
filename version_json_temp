@@ -22,7 +22,7 @@
     ]
   },
   {
-    "Lift-tool_Version": "1.0.79",
+    "Lift-tool_Version": "1.0.80",
     "release_date": "07/07/2023",
     "new_features": [
       "Return customerVersion in 'Get List of ProfileId Used'",
