@@ -20,5 +20,21 @@
     "issues_fix": [
       "None"
     ]
-  }
+  },
+  {
+    "Lift-tool_Version": "1.0.80",
+    "release_date": "07/07/2023",
+    "new_features": [
+      "Return customerVersion in 'Get List of ProfileId Used'",
+      "/mux/v1/table-generators/{generatorId} API integration",
+      "CAS Scrambling API Integration",
+      "Transport Stream display improvements",
+      "Transport Stream & CAS Backup",
+      "Recorded TS File Analysis using tsp (Available from record page)" 
+    ],
+    "issues_fix": [
+      "Get Transport Streams Table display issue",
+      "TSoIP record using TSDUCK instead of FFmpeg"
+    ]
+  }  
 ]
