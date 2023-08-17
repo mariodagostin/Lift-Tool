@@ -36,5 +36,15 @@
       "Get Transport Streams Table display issue",
       "TSoIP record using TSDUCK instead of FFmpeg"
     ]
+  },
+  {
+    "Lift-tool_Version": "1.0.81",
+    "release_date": "XXXXXX/2023",
+    "new_features": [
+       "Filter Job using AssetID" 
+    ],
+    "issues_fix": [
+      "None"
+  ]
   }  
 ]
