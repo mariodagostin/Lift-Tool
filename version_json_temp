@@ -41,7 +41,8 @@
     "Lift-tool_Version": "1.0.81",
     "release_date": "XXXXXX/2023",
     "new_features": [
-       "Filter Job using AssetID" 
+       "Filter Job using AssetID", 
+       "Rolling upgrade duration Improvement (segragation of Ingest and Egress Nodes)"
     ],
     "issues_fix": [
       "None"
