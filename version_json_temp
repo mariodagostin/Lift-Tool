@@ -43,6 +43,7 @@
     "new_features": [
        "Filter Job using AssetID", 
        "Adding ATM API /vos-api/atm/v1/variant-channels-filter", 
+       "Update online documentation link https://techlibrary.harmonicinc.com/", 
        "Rolling upgrade duration Improvement (segragation of Ingest and Egress Nodes)"
     ],
     "issues_fix": [
