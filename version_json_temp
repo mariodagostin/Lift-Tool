@@ -42,6 +42,7 @@
     "release_date": "XXXXXX/2023",
     "new_features": [
        "Filter Job using AssetID", 
+       "Adding ATM API /vos-api/atm/v1/variant-channels-filter", 
        "Rolling upgrade duration Improvement (segragation of Ingest and Egress Nodes)"
     ],
     "issues_fix": [
