@@ -41,7 +41,7 @@
     "Lift-tool_Version": "1.0.81",
     "release_date": "XXXXXX/2023",
     "new_features": [
-       "Filter Job using AssetID", 
+       "Filter Job using AssetID and sourceFileName", 
        "Adding ATM API /vos-api/atm/v1/variant-channels-filter", 
        "Update online documentation link https://techlibrary.harmonicinc.com/", 
        "Adding for Job Display if file transcode is done on cloud or internal: (ex:fileTranscoder:	HARMONIC_CLOUD)", 
