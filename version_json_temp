@@ -44,6 +44,7 @@
        "Filter Jobs using AssetID and sourceFileName", 
        "Adding ATM API /vos-api/atm/v1/variant-channels-filter", 
        "Update online documentation link https://techlibrary.harmonicinc.com/", 
+       "Update ATM Deployment API call (/atm/v1/manipulator-controller/deployment, /atm/v1/manipulator-deployment, /atm/v1/pmm/deployment, /atm/v1/vcm/deployment)", 
        "Adding for Job Display file engine being used: (ex:fileTranscoder:	HARMONIC_CLOUD)", 
        "Rolling upgrade duration Improvement (segragation of Ingest and Egress Nodes)"
     ],
