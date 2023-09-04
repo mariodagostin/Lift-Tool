@@ -36,5 +36,22 @@
       "Get Transport Streams Table display issue",
       "TSoIP record using TSDUCK instead of FFmpeg"
     ]
+  },
+  {
+    "Lift-tool_Version": "1.0.81",
+    "release_date": "09/01/2023",
+    "new_features": [
+       "Filter Jobs using AssetID and sourceFileName", 
+       "Adding ATM API /vos-api/atm/v1/variant-channels-filter", 
+       "Update online documentation link https://techlibrary.harmonicinc.com/", 
+       "Update ATM Deployment API call (/atm/v1/manipulator-controller/deployment, /atm/v1/manipulator-deployment, /atm/v1/pmm/deployment, /atm/v1/vcm/deployment)", 
+       "Update Generate SRT source with AES=128/192/256 enabled", 
+       "Improving the source generation with RTMP using ts files",
+       "Adding for Job Display file engine being used: (ex:fileTranscoder: HARMONIC_CLOUD)", 
+       "Rolling upgrade duration Improvement (segragation of Ingest and Egress Nodes)"
+    ],
+    "issues_fix": [
+      "None"
+  ]
   }  
 ]
