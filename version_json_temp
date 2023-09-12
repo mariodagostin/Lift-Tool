@@ -58,9 +58,10 @@
     "Lift-tool_Version": "1.0.82",
     "release_date": "XX/XX/2023",
     "new_features": [
-       "Backup includes now /vos-api/configure/v1/settings/service", 
+       "Backup includes now /vos-api/configure/v1/settings/service, /vos-api/atm/v1/variant-channels", 
        "Manage LLCU with XML API call without authentication (from LLCU menu)",
-       "Menu improvment: Drop down menu is displayed after 0.Xs in order to not be displayed automatically when mouse is hover"
+       "Menu improvment: Drop down menu is displayed after 0.Xs in order to not be displayed automatically when mouse is hover",
+       "NMX API Auth (basic) and get devices list"
     ],
     "issues_fix": [
       "None"
