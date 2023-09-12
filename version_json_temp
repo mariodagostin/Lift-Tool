@@ -59,7 +59,8 @@
     "release_date": "XX/XX/2023",
     "new_features": [
        "Backup includes now /vos-api/configure/v1/settings/service", 
-       "Manage LLCU with XML API call without authentication (from LLCU menu)"
+       "Manage LLCU with XML API call without authentication (from LLCU menu)",
+       "Menu improvment: Drop down menu is displayed after 0.Xs in order to not be displayed automatically when mouse is hover"
     ],
     "issues_fix": [
       "None"
