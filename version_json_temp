@@ -62,7 +62,8 @@
        "Manage LLCU with XML API call without authentication (from LLCU menu)",
        "Menu improvment: Drop down menu is displayed after 0.Xs in order to not be displayed automatically when mouse is hover",
        "NMX API Auth (basic) and get devices list",
-       "Restore All Variant channels entries from a backup JSON."
+       "Restore All Variant channels entries from a backup JSON"
+       "in K8S menu, you can see Metallb IPAddressPool, L2Advertisement"
     ],
     "issues_fix": [
       "None"
