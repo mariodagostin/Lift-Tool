@@ -64,6 +64,7 @@
        "NMX API Auth (basic) and get devices list",
        "Restore All Variant channels entries from a backup JSON"
        "in K8S menu, you can see Metallb IPAddressPool, L2Advertisement",
+       "Record SRT allows AES 192 and 256",
        "Check Origin URL: variable for LLCU pageSize"
     ],
     "issues_fix": [
