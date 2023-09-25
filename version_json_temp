@@ -53,22 +53,25 @@
     "issues_fix": [
       "None"
   ]
-  } ,
-  {
+  },
+ {
     "Lift-tool_Version": "1.0.82",
     "release_date": "XX/XX/2023",
     "new_features": [
-       "Backup includes now /vos-api/configure/v1/settings/service, /vos-api/atm/v1/variant-channels", 
+         "Backup includes now /vos-api/configure/v1/settings/service, /vos-api/atm/v1/variant-channels", 
        "Manage LLCU with XML API call without authentication (from LLCU menu)",
        "Menu improvment: Drop down menu is displayed after 0.Xs in order to not be displayed automatically when mouse is hover",
        "NMX API Auth (basic) and get devices list",
-       "Restore All Variant channels entries from a backup JSON"
+       "Restore All Variant channels entries from a backup JSON",
        "in K8S menu, you can see Metallb IPAddressPool, L2Advertisement",
        "Record SRT allows AES 192 and 256",
-       "Check Origin URL: variable for LLCU pageSize"
+       "Check Origin URL: variable for LLCU pageSize",
+       "s3fs bucket mount from VOS validation menu"
     ],
     "issues_fix": [
       "None"
   ]
-  } 
+  }
+  
+   
 ]
