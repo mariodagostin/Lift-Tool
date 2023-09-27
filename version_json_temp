@@ -66,8 +66,10 @@
        "in K8S menu, you can see Metallb IPAddressPool, L2Advertisement",
        "Record SRT allows AES 192 and 256",
        "Check Origin URL: variable for LLCU pageSize",
-       "s3fs bucket mount from 'Validation Settings' menu",
-       "Azure Blob mount from 'Validation Settings' menu"
+       "Adding New menu 'Mount Network Drives'",
+       "s3fs bucket mount from 'Mount Network Drives' menu",
+       "Azure Blob mount from 'Mount Network Drives' menu",
+       "tinyFileManager Integration"
     ],
     "issues_fix": [
       "None"
