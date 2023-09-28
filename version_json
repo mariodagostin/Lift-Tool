@@ -43,15 +43,38 @@
     "new_features": [
        "Filter Jobs using AssetID and sourceFileName", 
        "Adding ATM API /vos-api/atm/v1/variant-channels-filter", 
-       "Update online documentation link https://techlibrary.harmonicinc.com/", 
+       "Update online documentation link with https://techlibrary.harmonicinc.com/", 
        "Update ATM Deployment API call (/atm/v1/manipulator-controller/deployment, /atm/v1/manipulator-deployment, /atm/v1/pmm/deployment, /atm/v1/vcm/deployment)", 
-       "Update Generate SRT source with AES=128/192/256 enabled", 
-       "Improving the source generation with RTMP using ts files",
-       "Adding for Job Display file engine being used: (ex:fileTranscoder: HARMONIC_CLOUD)", 
+       "Enabling SRT AES source generation with with AES=192/256", 
+       "Improving the source generation with RTMP using TS files",
+       "Adding for Job Display file engine being used INTERNAL/HARMONIC_CLOUD: (ex:fileTranscoder: HARMONIC_CLOUD)", 
        "Rolling upgrade duration Improvement (segragation of Ingest and Egress Nodes)"
     ],
     "issues_fix": [
       "None"
   ]
-  }  
+  },
+ {
+    "Lift-tool_Version": "1.0.82",
+    "release_date": "09/27/2023",
+    "new_features": [
+         "Backup includes now /vos-api/configure/v1/settings/service, /vos-api/atm/v1/variant-channels", 
+       "Manage LLCU with XML API call without authentication (from LLCU menu)",
+       "Menu improvment: Drop down menu is displayed after 0.Xs in order to not be displayed automatically when mouse is hover",
+       "NMX API Auth (basic) and get devices list",
+       "Restore All Variant channels entries from a backup JSON",
+       "in K8S menu, you can see Metallb IPAddressPool, L2Advertisement",
+       "Record SRT allows AES 192 and 256",
+       "Check Origin URL: variable for LLCU pageSize",
+       "Adding New menu 'Mount Network Drives'",
+       "s3fs bucket mount from 'Mount Network Drives' menu",
+       "Azure Blob mount from 'Mount Network Drives' menu",
+       "tinyFileManager Integration"
+    ],
+    "issues_fix": [
+      "None"
+  ]
+  }
+  
+   
 ]
