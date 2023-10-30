@@ -74,7 +74,19 @@
     "issues_fix": [
       "None"
   ]
+  },
+  {
+    "Lift-tool_Version": "1.0.83",
+    "release_date": "10/30/2023",
+    "new_features": [
+       "Code changes to support PHP 8.2 - work in progress. Still PHP 7.4", 
+       "Subtitle Import from Fileserver",
+       "File360 API code removed from Lift-tool",
+       "Mount FileserverId from FileServer Page"
+    ],
+    "issues_fix": [
+      "None"
+  ]
   }
-  
    
 ]
