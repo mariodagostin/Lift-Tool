@@ -92,8 +92,10 @@
     "Lift-tool_Version": "1.0.84",
     "release_date": "01/01/2024",
     "new_features": [
-       "Teleport access for k8s cluster monitoring", 
-       "Teleport CLI"
+       "Teleport access for k8s cluster monitoring",
+       "Teleport CLI",
+       "ttyd integration for console access",
+       "GET vos-api/asset-acquisition/v1/settings/advanced-settings"
     ],
     "issues_fix": [
       "None"
