@@ -87,6 +87,16 @@
     "issues_fix": [
       "None"
   ]
+  },
+  {
+    "Lift-tool_Version": "1.0.84",
+    "release_date": "01/01/2024",
+    "new_features": [
+       "Teleport access for k8s cluster monitoring", 
+       "Teleport CLI"
+    ],
+    "issues_fix": [
+      "None"
+  ]
   }
-   
 ]
