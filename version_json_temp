@@ -100,5 +100,16 @@
     "issues_fix": [
       "None"
   ]
+  };
+  {
+    "Lift-tool_Version": "1.0.85",
+    "release_date": "XX/XX/2024",
+    "new_features": [
+       "Automatic AA Thumbnail load",
+       "External Asset Storage API"
+    ],
+    "issues_fix": [
+      "None"
+  ]
   }
 ]
