@@ -106,7 +106,8 @@
     "release_date": "XX/XX/2024",
     "new_features": [
        "Automatic AA Thumbnail load",
-       "External Asset Storage API"
+       "External Asset Storage (POTF) API Integration",
+       "Offline / Online Services during UpgradeToLatestEngine"
     ],
     "issues_fix": [
       "None"
