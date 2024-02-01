@@ -107,7 +107,8 @@
     "new_features": [
        "Automatic AA Thumbnail load",
        "External Asset Storage (POTF) API Integration",
-       "Offline / Online Services during UpgradeToLatestEngine"
+       "Offline / Online Services during UpgradeToLatestEngine",
+       "RU duration calculation using a single Playbook for CTRL and Worker nodes"
     ],
     "issues_fix": [
       "None"
