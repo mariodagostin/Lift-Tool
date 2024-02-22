@@ -109,7 +109,8 @@
        "External Asset Storage (POTF) API Integration",
        "Offline / Online Services during UpgradeToLatestEngine",
        "RU duration calculation using a single Playbook for CTRL and Worker nodes",
-       "Improve AA list display when asset is not in the decisionQ"
+       "Improve AA list display when asset is not in the decisionQ",
+       "Compare 2 JSON, included 2 profiles from the labwizard"
     ],
     "issues_fix": [
       "None"
