@@ -108,7 +108,8 @@
        "Automatic AA Thumbnail load",
        "External Asset Storage (POTF) API Integration",
        "Offline / Online Services during UpgradeToLatestEngine",
-       "RU duration calculation using a single Playbook for CTRL and Worker nodes"
+       "RU duration calculation using a single Playbook for CTRL and Worker nodes",
+       "Improve AA list display when asset is not in the decisionQ"
     ],
     "issues_fix": [
       "None"
