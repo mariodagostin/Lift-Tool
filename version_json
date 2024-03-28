@@ -85,7 +85,7 @@
        "Mount FileserverId from FileServer Page"
     ],
     "issues_fix": [
-      "None"
+      "Remove ChatGPT API due to token requests"
   ]
   },
   {
@@ -96,6 +96,21 @@
        "Teleport CLI",
        "ttyd integration for console access",
        "GET vos-api/asset-acquisition/v1/settings/advanced-settings"
+    ],
+    "issues_fix": [
+      "None"
+  ]
+  },
+  {
+    "Lift-tool_Version": "1.0.85",
+    "release_date": "28/03/2024",
+    "new_features": [
+       "Automatic AA Thumbnails load",
+       "External Asset Storage (POTF) API Integration",
+       "Offline / Online Services during UpgradeToLatestEngine",
+       "RU duration calculation using a single Playbook for CTRL and Worker nodes",
+       "Improve AA list display when asset is not in the decisionQ (playout usage)",
+       "JSON Diff - Compare 2 JSON, included 2 profiles from the labwizard"
     ],
     "issues_fix": [
       "None"
