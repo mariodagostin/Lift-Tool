@@ -115,5 +115,15 @@
     "issues_fix": [
       "None"
   ]
+  },
+  {
+    "Lift-tool_Version": "1.0.86",
+    "release_date": "28/03/2024",
+    "new_features": [
+       "TBD"
+    ],
+    "issues_fix": [
+      "SRT link for VLC showing encryptionkey"
+  ]
   }
 ]
