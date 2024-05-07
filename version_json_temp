@@ -121,6 +121,7 @@
     "release_date": "28/03/2024",
     "new_features": [
        "Balloon API integration",
+       "SRT Latency configuration for source generation in settings page",
        "Loop Record : /vos-api/asset-acquisition/v1/asset/record"
     ],
     "issues_fix": [
