@@ -122,7 +122,8 @@
     "new_features": [
        "Balloon API integration",
        "SRT Latency configuration for source generation in settings page",
-       "Origin Reserved Capacity";
+       "Origin Reserved Capacity",
+       "Live Event services",
        "Loop Record : /vos-api/asset-acquisition/v1/asset/record"
     ],
     "issues_fix": [
