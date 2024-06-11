@@ -120,11 +120,11 @@
     "Lift-tool_Version": "1.0.86",
     "release_date": "28/03/2024",
     "new_features": [
-       "Balloon API integration",
-       "SRT Latency configuration for source generation in settings page",
+       "Microservice Balloon API integration",
+       "SRT Latency configuration for source generation (from settings page)",
        "Origin Reserved Capacity",
-       "Live Event services",
-       "Loop Record : /vos-api/asset-acquisition/v1/asset/record"
+       "Live Event services (show LEW)",
+       "Display Records : /vos-api/asset-acquisition/v1/asset/record"
     ],
     "issues_fix": [
       "SRT link for VLC showing encryptionkey"
