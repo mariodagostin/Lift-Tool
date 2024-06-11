@@ -118,7 +118,7 @@
   },
   {
     "Lift-tool_Version": "1.0.86",
-    "release_date": "28/03/2024",
+    "release_date": "11/06/2024",
     "new_features": [
        "Microservice Balloon API integration",
        "SRT Latency configuration for source generation (from settings page)",
