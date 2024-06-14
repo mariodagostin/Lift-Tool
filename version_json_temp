@@ -129,5 +129,16 @@
     "issues_fix": [
       "SRT link for VLC showing encryptionkey"
   ]
+  },
+  {
+    "Lift-tool_Version": "1.0.87",
+    "release_date": "XX/XX/2024",
+    "new_features": [
+       "Play Cloud Sources and Cloud edges video",
+       "XXXXXXXXXXXx"
+    ],
+    "issues_fix": [
+      "SRT link for VLC showing encryptionkey"
+  ]
   }
 ]
