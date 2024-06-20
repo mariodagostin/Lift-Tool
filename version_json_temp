@@ -138,7 +138,7 @@
        "Record Cloud Sources and Cloud Edges Video"
     ],
     "issues_fix": [
-      "XXXX"
+      "LLCU asset was shown as VOD if the AA label LLCU was not in position 0"
   ]
   }
 ]
