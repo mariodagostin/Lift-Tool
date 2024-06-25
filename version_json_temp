@@ -136,7 +136,9 @@
     "new_features": [
        "Play Cloud Sources and Cloud Edges Video",
        "Record Cloud Sources and Cloud Edges Video",
-       "Ini files from top frame management - improvement with filter"
+       "Ini files from top frame management - improvement with filter",
+       "Internal Kms App",
+       "DRM Scrabling - /drm/v1/scrambling/kmsInfo"
     ],
     "issues_fix": [
       "LLCU asset was shown as VOD if the AA label LLCU was not in position 0"
