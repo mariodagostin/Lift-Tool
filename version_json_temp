@@ -138,7 +138,7 @@
        "Record Cloud Sources and Cloud Edges Video",
        "Ini files from top frame management - improvement with filter",
        "Internal Kms App",
-       "DRM Scrabling - /drm/v1/scrambling/kmsInfo"
+       "LLCU duration in AA"
     ],
     "issues_fix": [
       "LLCU asset was shown as VOD if the AA label LLCU was not in position 0"
