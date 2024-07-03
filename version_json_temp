@@ -139,7 +139,7 @@
        "Ini files from top frame management - improvement with filter",
        "Internal Kms App",
        "LLCU duration in AA",
-       "Show CS Bitrate & sessions count in the CS table",
+       "Show Cloud Source/Edge Bitrate & sessions count in the CS/CE table",
     ],
     "issues_fix": [
       "LLCU asset was shown as VOD if the AA label LLCU was not in position 0"
