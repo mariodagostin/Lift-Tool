@@ -140,6 +140,10 @@
        "Internal Kms App",
        "LLCU duration in AA",
        "Show Cloud Source/Edge Bitrate & sessions count in the CS/CE table",
+       "Display Thumbnail for AA in real size when mouseover",
+       "Reset filters for AA and Job pages",
+       "Jobid link in Misc column for AA",
+       "Misc column icones shown according to the nature of the asset in AA page"
     ],
     "issues_fix": [
       "LLCU asset was shown as VOD if the AA label LLCU was not in position 0"
