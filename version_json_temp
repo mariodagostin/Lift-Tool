@@ -143,7 +143,9 @@
        "Display Thumbnail for AA in real size when mouseover",
        "Reset filters for AA and Job pages",
        "Jobid link in Misc column for AA",
-       "Misc column icones shown according to the nature of the asset in AA page"
+       "Misc column icones shown according to the nature of the asset in AA page",
+       "/vos-api/asset-acquisition/v1/export/ Display under AA menu",
+       "/vos-api/asset-acquisition/v1/packages Display under AA menu"
     ],
     "issues_fix": [
       "LLCU asset was shown as VOD if the AA label LLCU was not in position 0"
