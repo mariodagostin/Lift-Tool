@@ -132,20 +132,21 @@
   },
   {
     "Lift-tool_Version": "1.0.87",
-    "release_date": "XX/XX/2024",
+    "release_date": "07/19/2024",
     "new_features": [
        "Play Cloud Sources and Cloud Edges Video",
        "Record Cloud Sources and Cloud Edges Video",
-       "Ini files from top frame management - improvement with filter",
+       "Ini files from top frame management - improvement with filters",
        "Internal Kms App",
-       "LLCU duration in AA",
+       "LLCU duration in AA page",
        "Show Cloud Source/Edge Bitrate & sessions count in the CS/CE table",
        "Display Thumbnail for AA in real size when mouseover",
-       "Reset filters for AA and Job pages",
-       "Jobid link in Misc column for AA",
-       "Misc column icones shown according to the nature of the asset in AA page",
-       "/vos-api/asset-acquisition/v1/export/ Display under AA menu",
-       "/vos-api/asset-acquisition/v1/packages Display under AA menu"
+       "Usability: Reset filters for AA and Job pages",
+       "Jobid link in Misc column for AA VOD titles",
+       "Misc column icones shown according to the nature of the asset in AA page (not generic)",
+       "AA Export list: /vos-api/asset-acquisition/v1/export/ Display under AA menu",
+       "AA Packages list: /vos-api/asset-acquisition/v1/packages Display under AA menu",
+       "Live Event services highlighted - start and end time on mouseover
     ],
     "issues_fix": [
       "LLCU asset was shown as VOD if the AA label LLCU was not in position 0"
