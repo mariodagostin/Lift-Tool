@@ -146,7 +146,7 @@
        "Misc column icones shown according to the nature of the asset in AA page (not generic)",
        "AA Export list: /vos-api/asset-acquisition/v1/export/ Display under AA menu",
        "AA Packages list: /vos-api/asset-acquisition/v1/packages Display under AA menu",
-       "Live Event services highlighted - start and end time on mouseover
+       "Live Event services highlighted - start and end time on mouseover"
     ],
     "issues_fix": [
       "LLCU asset was shown as VOD if the AA label LLCU was not in position 0"
