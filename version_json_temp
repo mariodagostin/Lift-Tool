@@ -151,5 +151,15 @@
     "issues_fix": [
       "LLCU asset was shown as VOD if the AA label LLCU was not in position 0"
   ]
+  },
+  {
+    "Lift-tool_Version": "1.0.88",
+    "release_date": "XX/XX/2024",
+    "new_features": [
+       "Asset Acquisition /vos-api/asset-acquisition/v1/asset/asset_id/action for Trimming"
+    ],
+    "issues_fix": [
+      "None"
+  ]
   }
 ]
