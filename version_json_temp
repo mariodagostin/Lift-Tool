@@ -158,7 +158,8 @@
     "new_features": [
        "Asset Acquisition /vos-api/asset-acquisition/v1/asset/asset_id/action for Trimming",
        "HMS Conenctor API Integration",
-       "PMM Manipulator Upstream Cache /atm/v1/muc/upstreams/*"
+       "PMM Manipulator Upstream Cache /atm/v1/muc/upstreams/*",
+       "Playout Update - inlcudes OPC events display"
     ],
     "issues_fix": [
              "GET_URL Displays returns in HTML when http has error code"
