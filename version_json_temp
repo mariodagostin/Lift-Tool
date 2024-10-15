@@ -157,7 +157,7 @@
     "release_date": "XX/XX/2024",
     "new_features": [
        "Asset Acquisition /vos-api/asset-acquisition/v1/asset/asset_id/action for Trimming",
-       "HMS Conenctor API Integration",
+       "HMS Connector API Integration",
        "PMM Manipulator Upstream Cache /atm/v1/muc/upstreams/*",
        "Playout Update - inlcudes OPC events display"
     ],
