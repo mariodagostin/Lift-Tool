@@ -151,5 +151,18 @@
     "issues_fix": [
       "LLCU asset was shown as VOD if the AA label LLCU was not in position 0"
   ]
+  },
+  {
+    "Lift-tool_Version": "1.0.88",
+    "release_date": "10/16/2024",
+    "new_features": [
+       "Asset Acquisition /vos-api/asset-acquisition/v1/asset/asset_id/action for Trimming",
+       "HMS Connector API Integration",
+       "PMM Manipulator Upstream Cache /atm/v1/muc/upstreams/*",
+       "Playout Update - inlcudes OPC events display"
+    ],
+    "issues_fix": [
+             "GET_URL Displays returns in HTML when http has error code"
+  ]
   }
 ]
