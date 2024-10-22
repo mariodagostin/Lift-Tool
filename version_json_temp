@@ -164,5 +164,15 @@
     "issues_fix": [
              "GET_URL Displays returns in HTML when http has error code"
   ]
+  },
+{
+    "Lift-tool_Version": "1.0.89",
+    "release_date": "XX/XX/2024",
+    "new_features": [
+       "Playout: Timeline show list of events"
+    ],
+    "issues_fix": [
+             "Sources Input3 was not displayed"
+  ]
   }
 ]
