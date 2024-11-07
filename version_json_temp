@@ -169,7 +169,8 @@
     "Lift-tool_Version": "1.0.89",
     "release_date": "XX/XX/2024",
     "new_features": [
-       "Playout: Timeline show list of events"
+       "Playout: Timeline show list of events",
+       "Usage Data (/os-api/usage-data/v1/*)",
     ],
     "issues_fix": [
              "Sources Input3 was not displayed"
