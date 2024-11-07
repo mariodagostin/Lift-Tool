@@ -173,7 +173,9 @@
        "Usage Data (/os-api/usage-data/v1/*)",
     ],
     "issues_fix": [
-             "Sources Input3 was not displayed"
+             "Sources Input3 was not displayed (only 1 and 2) - fixed",
+             "Titles in AA being transcoded multiple time => playback URL now available",
+             "QR Code genration reworked and using internal JS -  No need of Internet connection"
   ]
   }
 ]
