@@ -169,8 +169,9 @@
     "Lift-tool_Version": "1.0.89",
     "release_date": "XX/XX/2024",
     "new_features": [
-       "Playout: Timeline show list of events",
-       "Usage Data (/os-api/usage-data/v1/*)",
+       "Playout: Realtime Timeline shows list of events",
+       "Logs > Usage data: Get Usage Data (/vos-api/usage-data/v1/*)",
+       "Massive PerAssetPackaging change: /vos-api/asset-acquisition/v1/assets/destination-profile/massive-update"
     ],
     "issues_fix": [
              "Sources Input3 was not displayed (only 1 and 2) - fixed",
