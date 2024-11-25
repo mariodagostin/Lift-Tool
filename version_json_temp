@@ -171,11 +171,13 @@
     "new_features": [
        "Playout: Realtime Timeline shows list of events",
        "Logs > Usage data: Get Usage Data (/vos-api/usage-data/v1/*)",
+       "Add multipe transcoding profiles in the "Decision Queue",
        "Massive PerAssetPackaging change: /vos-api/asset-acquisition/v1/assets/destination-profile/massive-update"
     ],
     "issues_fix": [
              "Sources Input3 was not displayed (only 1 and 2) - fixed",
-             "Titles in AA being transcoded multiple time => playback URL now available",
+             "Titles in AA being transcoded multiple time => playback URL now available",             
+             "Add row in 'execute Job Workflows' - Missing add_row Javascript code",
              "QR Code genration reworked and using internal JS -  No need of Internet connection"
   ]
   }
