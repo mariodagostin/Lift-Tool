@@ -179,6 +179,7 @@
     "issues_fix": [
              "Sources Input3 was not displayed (only 1 and 2) - fixed",
              "Titles in AA being transcoded multiple time => playback URL now available",             
+             "Dispay correct number of assets when filter is used",
              "Add row in 'execute Job Workflows' - Missing add_row Javascript code",
              "QR Code genration reworked and using internal JS -  No need of Internet connection"
   ]
