@@ -181,6 +181,7 @@
              "Titles in AA being transcoded multiple time => playback URL now available",             
              "Dispay correct number of assets when filter is used",
              "Add row in 'execute Job Workflows' - Missing add_row Javascript code",
+             "Settings page load - Faster page display",
              "QR Code genration reworked and using internal JS -  No need of Internet connection"
   ]
   }
