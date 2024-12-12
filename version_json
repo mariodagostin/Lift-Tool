@@ -164,5 +164,25 @@
     "issues_fix": [
              "GET_URL Displays returns in HTML when http has error code"
   ]
+  },
+{
+    "Lift-tool_Version": "1.0.89",
+    "release_date": "12/12/2024",
+    "new_features": [
+       "Playout - Realtime Timeline shows list of events",
+       "Logs > Usage data: Get Usage Data (/vos-api/usage-data/v1/*)",
+       "AA - Add multipe transcoding profiles in the Decision Queue",
+       "AA - Delete Asset Output (for multiple transcode w/ same profileid needs)",
+       "Remove the internet access check (3sec latency)",
+       "AA - Massive PerAssetPackaging change: /vos-api/asset-acquisition/v1/assets/destination-profile/massive-update"
+    ],
+    "issues_fix": [
+             "Sources Input3 was not displayed (only 1 and 2) - fixed",
+             "Titles in AA being transcoded multiple time => playback URL now available",             
+             "Dispay correct number of assets when filter is used",
+             "Add row in 'execute Job Workflows' - Missing add_row Javascript code",
+             "Settings page load - Faster page display",
+             "QR Code genration reworked and using internal JS -  No need of Internet connection"
+  ]
   }
 ]
