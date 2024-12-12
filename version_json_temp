@@ -167,14 +167,14 @@
   },
 {
     "Lift-tool_Version": "1.0.89",
-    "release_date": "XX/XX/2024",
+    "release_date": "12/12/2024",
     "new_features": [
-       "Playout: Realtime Timeline shows list of events",
+       "Playout - Realtime Timeline shows list of events",
        "Logs > Usage data: Get Usage Data (/vos-api/usage-data/v1/*)",
-       "Add multipe transcoding profiles in the "Decision Queue",
-       "Delete Asset Output (for multiple transcode w/ same profileid needs)",
+       "AA - Add multipe transcoding profiles in the "Decision Queue",
+       "AA - Delete Asset Output (for multiple transcode w/ same profileid needs)",
        "Remove the internet access check (3sec latency)",
-       "Massive PerAssetPackaging change: /vos-api/asset-acquisition/v1/assets/destination-profile/massive-update"
+       "AA - Massive PerAssetPackaging change: /vos-api/asset-acquisition/v1/assets/destination-profile/massive-update"
     ],
     "issues_fix": [
              "Sources Input3 was not displayed (only 1 and 2) - fixed",
