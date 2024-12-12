@@ -171,7 +171,7 @@
     "new_features": [
        "Playout - Realtime Timeline shows list of events",
        "Logs > Usage data: Get Usage Data (/vos-api/usage-data/v1/*)",
-       "AA - Add multipe transcoding profiles in the "Decision Queue",
+       "AA - Add multipe transcoding profiles in the Decision Queue",
        "AA - Delete Asset Output (for multiple transcode w/ same profileid needs)",
        "Remove the internet access check (3sec latency)",
        "AA - Massive PerAssetPackaging change: /vos-api/asset-acquisition/v1/assets/destination-profile/massive-update"
