@@ -184,5 +184,15 @@
              "Settings page load - Faster page display",
              "QR Code genration reworked and using internal JS -  No need of Internet connection"
   ]
+  },
+{
+    "Lift-tool_Version": "1.0.90",
+    "release_date": "12/12/2024",
+    "new_features": [
+       "Grafana Update with version: grafana_11.4.0_amd64.deb"
+    ],
+    "issues_fix": [
+             "None"
+     ]
   }
 ]
