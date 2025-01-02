@@ -189,7 +189,8 @@
     "Lift-tool_Version": "1.0.90",
     "release_date": "12/12/2024",
     "new_features": [
-       "Grafana Update with version: grafana_11.4.0_amd64.deb"
+       "Grafana Update with version: grafana_11.4.0_amd64.deb",
+       "CS SRT stream content analyzing (no need to record file first anymore)",
     ],
     "issues_fix": [
              "None"
