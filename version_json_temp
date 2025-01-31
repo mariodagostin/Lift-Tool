@@ -191,6 +191,7 @@
     "new_features": [
        "Grafana Update with version: grafana_11.4.0_amd64.deb",
        "CS SRT stream content analyzing (no need to record file first anymore)",
+       "Sorting Table Column available",
        "POD Distribution per Node suing CanvasJS"
     ],
     "issues_fix": [
