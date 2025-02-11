@@ -192,7 +192,8 @@
        "Grafana Update with version: grafana_11.4.0_amd64.deb",
        "CS SRT stream content analyzing (no need to record file first anymore)",
        "Sorting Table Column available",
-       "POD Distribution per Node suing CanvasJS"
+       "POD Distribution per Node using CanvasJS",
+       "Mediainfo",
     ],
     "issues_fix": [
         "Balloon Creation Failing"
