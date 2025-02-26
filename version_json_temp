@@ -194,7 +194,7 @@
        "Sorting Table Column available",
        "POD Distribution per Node using CanvasJS",
        "Audio Loudness (LKFS) Analyzer",
-       "Analyze media file with Mediainfo",
+       "Analyze media file with Mediainfo"
     ],
     "issues_fix": [
         "Balloon Creation Failing"
