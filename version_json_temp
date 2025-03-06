@@ -187,17 +187,18 @@
   },
 {
     "Lift-tool_Version": "1.0.90",
-    "release_date": "12/12/2024",
+    "release_date": "05/03/202",
     "new_features": [
-       "Grafana Update with version: grafana_11.4.0_amd64.deb",
+       "Audio Loudness (LKFS) Analyzer for File/UDP/SRT inputs",
        "CS SRT stream content analyzing (no need to record file first anymore)",
+       "Built-in Grafana version 11.4 Update",
+       "Analyze media file with Mediainfo"
        "Sorting Table Column available",
        "POD Distribution per Node using CanvasJS",
-       "Audio Loudness (LKFS) Analyzer",
-       "Analyze media file with Mediainfo"
     ],
     "issues_fix": [
-        "Balloon Creation Failing"
+        "Balloon Creation Failing",
+        "Cloud Edges editing with egressPointId insteadif pipeId
      ]
   }
 ]
