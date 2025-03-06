@@ -198,7 +198,7 @@
     ],
     "issues_fix": [
         "Balloon Creation Failing",
-        "Cloud Edges editing with egressPointId insteadif pipeId"
+        "Cloud Edges editing with egressPointId instead of pipeId"
      ]
   }
 ]
