@@ -192,13 +192,13 @@
        "Audio Loudness (LKFS) Analyzer for File/UDP/SRT inputs",
        "CS SRT stream content analyzing (no need to record file first anymore)",
        "Built-in Grafana version 11.4 Update",
-       "Analyze media file with Mediainfo"
+       "Analyze media file with Mediainfo",
        "Sorting Table Column available",
-       "POD Distribution per Node using CanvasJS",
+       "POD Distribution per Node using CanvasJS"
     ],
     "issues_fix": [
         "Balloon Creation Failing",
-        "Cloud Edges editing with egressPointId insteadif pipeId
+        "Cloud Edges editing with egressPointId insteadif pipeId"
      ]
   }
 ]
