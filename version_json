@@ -184,5 +184,21 @@
              "Settings page load - Faster page display",
              "QR Code genration reworked and using internal JS -  No need of Internet connection"
   ]
+  },
+{
+    "Lift-tool_Version": "1.0.90",
+    "release_date": "05/03/202",
+    "new_features": [
+       "Audio Loudness (LKFS) Analyzer for File/UDP/SRT inputs",
+       "CS SRT stream content analyzing (no need to record file first anymore)",
+       "Built-in Grafana version 11.4 Update",
+       "Analyze media file with Mediainfo",
+       "Sorting Table Column available",
+       "POD Distribution per Node using CanvasJS"
+    ],
+    "issues_fix": [
+        "Balloon Creation Failing",
+        "Cloud Edges editing with egressPointId insteadif pipeId"
+     ]
   }
 ]
