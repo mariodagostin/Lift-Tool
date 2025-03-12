@@ -201,17 +201,17 @@
         "Cloud Edges editing with egressPointId instead of pipeId"
      ]
   },
-{
+ {
     "Lift-tool_Version": "1.0.91",
     "release_date": "X/XX/2025",
     "new_features": [
        "Adding Json Editor",
        "BlueTable Line Highlight when mouseover Event",
        "SMTP: vos-api/mail/v1/smtp",
-       "GPI: Box	/vos-api/gpi/v1/gpibox"
+       "GPI: Box /vos-api/gpi/v1/gpibox"
     ],
     "issues_fix": [
         "None"
      ]
-  }
-]
+  }  
+ ]
