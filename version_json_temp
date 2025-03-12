@@ -187,7 +187,7 @@
   },
 {
     "Lift-tool_Version": "1.0.90",
-    "release_date": "05/03/202",
+    "release_date": "05/03/2025",
     "new_features": [
        "Audio Loudness (LKFS) Analyzer for File/UDP/SRT inputs",
        "CS SRT stream content analyzing (no need to record file first anymore)",
@@ -199,6 +199,19 @@
     "issues_fix": [
         "Balloon Creation Failing",
         "Cloud Edges editing with egressPointId instead of pipeId"
+     ]
+  },
+{
+    "Lift-tool_Version": "1.0.91",
+    "release_date": "X/XX/2025",
+    "new_features": [
+       "Adding Json Editor",
+       "BlueTable Line Highlight when mouseover Event",
+       "SMTP: vos-api/mail/v1/smtp",
+       "GPI: Box	/vos-api/gpi/v1/gpibox"
+    ],
+    "issues_fix": [
+        "None"
      ]
   }
 ]
