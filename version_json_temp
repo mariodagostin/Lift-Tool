@@ -208,7 +208,8 @@
        "Adding Json Editor",
        "BlueTable Line Highlight when mouseover Event",
        "SMTP: vos-api/mail/v1/smtp",
-       "GPI: Box /vos-api/gpi/v1/gpibox"
+       "GPI: Box /vos-api/gpi/v1/gpibox",
+       "Analyze Content Streams"
     ],
     "issues_fix": [
         "None"
