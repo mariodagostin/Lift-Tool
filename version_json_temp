@@ -209,6 +209,7 @@
        "BlueTable Line Highlight when mouseover Event",
        "SMTP: vos-api/mail/v1/smtp",
        "GPI: Box /vos-api/gpi/v1/gpibox",
+       "ATM Playout Channel: /atm/v1/playout-channels",
        "Analyze Content Streams"
     ],
     "issues_fix": [
