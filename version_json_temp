@@ -212,6 +212,7 @@
        "ATM Playout Channel: /atm/v1/playout-channels",
        "ATM Content Generation Channel: /atm/v1/vcm/content-generation-channels",
        "ATM Content Replacement Channel: /atm/v1/vcm/content-replacement-channels",
+       "ATM Live Event Clipping Channel: /atm/v1/vcm/live-event-clipping-channels",
        "Analyze Content Streams"
     ],
     "issues_fix": [
