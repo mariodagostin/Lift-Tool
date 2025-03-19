@@ -215,6 +215,7 @@
        "ATM Live Event Clipping Channel: /atm/v1/vcm/live-event-clipping-channels",
        "ATM Regional Ad Event Channel: /vos-api/atm/v1/vcm/regional-ads-channels",
        "ATM sourceID mappings: /vos-api/atm/v1/vcm/variant-channels-sourceid-mapping",
+       "Get region details for current instance: /vos-api/cloudsourceprovisioner"
        "Analyze Content Streams"
     ],
     "issues_fix": [
