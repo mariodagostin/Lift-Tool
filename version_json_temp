@@ -217,6 +217,7 @@
        "ATM sourceID mappings: /vos-api/atm/v1/vcm/variant-channels-sourceid-mapping",
        "Get region details for current instance: /vos-api/cloudsourceprovisioner",
        "AHDR SL-HDR1 CONFIG file records: /configure/v1/AHDR_SL_HDR1_CONFIG",
+       "LUT file records: /vos-api/configure/v1/LUT",
        "Analyze Content Streams"
     ],
     "issues_fix": [
