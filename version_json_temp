@@ -215,7 +215,8 @@
        "ATM Live Event Clipping Channel: /atm/v1/vcm/live-event-clipping-channels",
        "ATM Regional Ad Event Channel: /vos-api/atm/v1/vcm/regional-ads-channels",
        "ATM sourceID mappings: /vos-api/atm/v1/vcm/variant-channels-sourceid-mapping",
-       "Get region details for current instance: /vos-api/cloudsourceprovisioner"
+       "Get region details for current instance: /vos-api/cloudsourceprovisioner",
+       "AHDR SL-HDR1 CONFIG file records: /configure/v1/AHDR_SL_HDR1_CONFIG",
        "Analyze Content Streams"
     ],
     "issues_fix": [
