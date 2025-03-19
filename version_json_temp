@@ -218,6 +218,7 @@
        "Get region details for current instance: /vos-api/cloudsourceprovisioner",
        "AHDR SL-HDR1 CONFIG file records: /configure/v1/AHDR_SL_HDR1_CONFIG",
        "LUT file records: /vos-api/configure/v1/LUT",
+       "Customer Data: /customer-data/v1/..",
        "Analyze Content Streams"
     ],
     "issues_fix": [
