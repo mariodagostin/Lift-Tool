@@ -219,6 +219,10 @@
     ],
     "issues_fix": [
         "None"
-     ]
+     ],
+    "deprecated": [
+        "Personal Video Recording",
+        "VOS Validation tools with JSON inputs"
+     ]  
   }  
  ]
