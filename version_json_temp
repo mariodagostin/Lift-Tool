@@ -207,6 +207,7 @@
     "new_features": [
        "Adding Json Editor",
        "BlueTable Line Highlight when mouseover Event",
+       "Zookeper znodes and data display (only on VMS cluster) - Including filed search",
        "SMTP: vos-api/mail/v1/smtp",
        "GPI: Box /vos-api/gpi/v1/gpibox",
        "ATM Playout Channel: /atm/v1/playout-channels",
@@ -224,7 +225,7 @@
        "Source monitoring: vos-api/source-monitor/v1/monitor/..."
     ],
     "issues_fix": [
-        "None"
+        "liftctl.sh v1.25 fix in containerd environment : liftctl.sh k8s deploy image image.tar"
      ],
     "deprecated": [
         "VOS Validation tools with JSON inputs"
