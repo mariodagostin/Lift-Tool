@@ -225,7 +225,8 @@
        "Source monitoring: vos-api/source-monitor/v1/monitor/..."
     ],
     "issues_fix": [
-        "liftctl.sh v1.25 fixing in containerd environment following command: liftctl.sh k8s deploy image image.tar"
+        "liftctl.sh v1.25 fixing in containerd environment following command: liftctl.sh k8s deploy image image.tar",
+        "Post Massive source with Cloud Live Routing -> Program number not found found"
      ],
     "deprecated": [
         "VOS Validation tools with JSON inputs"
