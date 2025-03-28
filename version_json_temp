@@ -222,7 +222,8 @@
        "Customer Data: /customer-data/v1/..",
        "external OTT repackager: /vos-api/external-ott-repackager/v1/packaging_profile..",
        "Analyze Content Streams",
-       "Source monitoring: vos-api/source-monitor/v1/monitor/..."
+       "Source monitoring: vos-api/source-monitor/v1/monitor/...",
+       "ffmetrics for file VQ comparison"
     ],
     "issues_fix": [
         "liftctl.sh v1.25 fixing in containerd environment following command: liftctl.sh k8s deploy image image.tar",
