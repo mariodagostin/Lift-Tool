@@ -205,9 +205,9 @@
     "Lift-tool_Version": "1.0.91",
     "release_date": "X/XX/2025",
     "new_features": [
-       "Adding Json Editor to Lift-tool",
+       "Json Editor replacing textarea",
        "BlueTable Line Highlight when mouseover Event",
-       "Zookeper znodes and data display (only on VMS cluster) - Including search function",
+       "Zookeper znodes and data display (only on VMS cluster) - Including search function tested on small VMS cluster only)",
        "SMTP: vos-api/mail/v1/smtp",
        "GPI: Box /vos-api/gpi/v1/gpibox",
        "ATM Playout Channel: /atm/v1/playout-channels",
@@ -223,7 +223,8 @@
        "external OTT repackager: /vos-api/external-ott-repackager/v1/packaging_profile..",
        "Analyze Content Streams",
        "Source monitoring: vos-api/source-monitor/v1/monitor/...",
-       "ffmetrics for file VQ comparison"
+       "ffmetrics for file VQ comparison",
+       "PHP curl_multi_exec implemneted for Services OFFLINE/ONLINE/RESTART Only - API commands sent in parallel"
     ],
     "issues_fix": [
         "liftctl.sh v1.25 fixing in containerd environment following command: liftctl.sh k8s deploy image image.tar",
