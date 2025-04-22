@@ -186,7 +186,7 @@
   ]
   },
 {
-    "Lift-tool_Version": "1.0.90",
+    "Lift-tool_Version": "1.0.92",
     "release_date": "05/03/2025",
     "new_features": [
        "Audio Loudness (LKFS) Analyzer for File/UDP/SRT inputs",
