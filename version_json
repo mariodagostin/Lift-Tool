@@ -198,7 +198,40 @@
     ],
     "issues_fix": [
         "Balloon Creation Failing",
-        "Cloud Edges editing with egressPointId insteadif pipeId"
+        "Cloud Edges editing with egressPointId instead of pipeId"
      ]
-  }
-]
+  },
+ {
+    "Lift-tool_Version": "1.0.91",
+    "release_date": "16/04/2025",
+    "new_features": [
+       "Json Editor replacing textarea",
+       "BlueTable Line Highlight when mouseover Event",
+       "Zookeper znodes and data display (only on VMS cluster) - Including search function tested on small VMS cluster only)",
+       "SMTP: vos-api/mail/v1/smtp",
+       "GPI: Box /vos-api/gpi/v1/gpibox",
+       "ATM Playout Channel: /atm/v1/playout-channels",
+       "ATM Content Generation Channel: /atm/v1/vcm/content-generation-channels",
+       "ATM Content Replacement Channel: /atm/v1/vcm/content-replacement-channels",
+       "ATM Live Event Clipping Channel: /atm/v1/vcm/live-event-clipping-channels",
+       "ATM Regional Ad Event Channel: /vos-api/atm/v1/vcm/regional-ads-channels",
+       "ATM sourceID mappings: /vos-api/atm/v1/vcm/variant-channels-sourceid-mapping",
+       "Get region details for current instance: /vos-api/cloudsourceprovisioner",
+       "AHDR SL-HDR1 CONFIG file records: /configure/v1/AHDR_SL_HDR1_CONFIG",
+       "LUT file records: /vos-api/configure/v1/LUT",
+       "Customer Data: /customer-data/v1/..",
+       "external OTT repackager: /vos-api/external-ott-repackager/v1/packaging_profile..",
+       "Analyze Content Streams",
+       "Source monitoring: vos-api/source-monitor/v1/monitor/...",
+       "ffmetrics for file VQ comparison",
+       "PHP curl_multi_exec implemented for Services OFFLINE/ONLINE/RESTART Only - API commands sent in parallel"
+    ],
+    "issues_fix": [
+        "liftctl.sh v1.25 fixing in containerd environment following command: liftctl.sh k8s deploy image image.tar, new liftctl.sh script Available on confluence",
+        "Post Massive source with Cloud Live Routing -> Program number not found"
+     ],
+    "deprecated": [
+        "VOS Validation tools with JSON inputs"
+     ]  
+  }  
+ ]
