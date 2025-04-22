@@ -224,10 +224,10 @@
        "Analyze Content Streams",
        "Source monitoring: vos-api/source-monitor/v1/monitor/...",
        "ffmetrics for file VQ comparison",
-       "PHP curl_multi_exec implemneted for Services OFFLINE/ONLINE/RESTART Only - API commands sent in parallel"
+       "PHP curl_multi_exec implemented for Services OFFLINE/ONLINE/RESTART Only - API commands sent in parallel"
     ],
     "issues_fix": [
-        "liftctl.sh v1.25 fixing in containerd environment following command: liftctl.sh k8s deploy image image.tar",
+        "liftctl.sh v1.25 fixing in containerd environment following command: liftctl.sh k8s deploy image image.tar, new liftctl.sh script Available on confluence",
         "Post Massive source with Cloud Live Routing -> Program number not found"
      ],
     "deprecated": [
