@@ -203,7 +203,7 @@
   },
  {
     "Lift-tool_Version": "1.0.91",
-    "release_date": "X/XX/2025",
+    "release_date": "04/16/2025",
     "new_features": [
        "Json Editor replacing textarea",
        "BlueTable Line Highlight when mouseover Event",
@@ -233,5 +233,17 @@
     "deprecated": [
         "VOS Validation tools with JSON inputs"
      ]  
-  }  
+  } ,
+ {
+    "Lift-tool_Version": "1.0.92",
+    "release_date": "X/XX/2025",
+    "new_features": [
+       "nmap for network dscovery"
+    ],
+    "issues_fix": [
+     ],
+    "deprecated": [
+        
+     ]  
+  } 
  ]
