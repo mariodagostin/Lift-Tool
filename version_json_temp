@@ -238,7 +238,10 @@
     "Lift-tool_Version": "1.0.92",
     "release_date": "X/XX/2025",
     "new_features": [
-       "nmap for network dscovery"
+       "nmap for network dscovery",
+       "pricing attribute for profile used (from the services button - Get Lis of ProfileId Used)",
+       "New version of liftctl including dialog menu",
+       "Dark theme"
     ],
     "issues_fix": [
      ],
