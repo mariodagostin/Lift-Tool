@@ -240,6 +240,7 @@
     "new_features": [
        "nmap for network dscovery",
        "pricing attribute for profile used (from the services button - Get Lis of ProfileId Used)",
+       "Licenses details based on pricing attributes",
        "New version of liftctl including dialog menu",
        "Dark theme"
     ],
