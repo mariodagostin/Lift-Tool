@@ -242,6 +242,7 @@
        "pricing attribute for profile used (from the services button - Get Lis of ProfileId Used)",
        "Licenses details based on pricing attributes",
        "New version of liftctl including dialog menu",
+       "Local SRT and UDP conversion for built-in HTML5 player",
        "Dark theme"
     ],
     "issues_fix": [
