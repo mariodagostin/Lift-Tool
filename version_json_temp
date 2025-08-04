@@ -246,7 +246,8 @@
        "Dark theme",
        "Delete AA source files - filepath : /vos-api/asset-acquisition/v1/asset/source-file/{id}",
        "Get Jobs Statistics: /vos-api/asset-acquisition/v1/jobs/statistics",
-       "backup configuration files: GET /vos-api/syndicate/v1/cloudEdges, GET /vos-api/syndicate/v1/cloudsources, GET /vos-api/asset-acquisition/v1/grooming-profiles, GET /vos-api/playoutcontrol/v1/channels"
+       "backup configuration files: GET /vos-api/syndicate/v1/cloudEdges, GET /vos-api/syndicate/v1/cloudsources, GET /vos-api/asset-acquisition/v1/grooming-profiles, GET /vos-api/playoutcontrol/v1/channels",
+       "Teleport 17.5.2"
     ],
     "issues_fix": [
      ],
