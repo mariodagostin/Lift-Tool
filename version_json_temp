@@ -238,16 +238,16 @@
     "Lift-tool_Version": "1.0.92",
     "release_date": "X/XX/2025",
     "new_features": [
-       "nmap for network dscovery",
+       "nmap tool for local network discovery",
        "pricing attribute for profile used (from the services button - Get Lis of ProfileId Used)",
        "Licenses details based on pricing attributes",
-       "New version of liftctl including interactive dialog menu",
+       "New version of liftctl.sh including interactive dialog menu",
        "Local SRT and UDP conversion for built-in HTML5 player",
-       "Dark theme",
        "Delete AA source files - filepath : /vos-api/asset-acquisition/v1/asset/source-file/{id}",
        "Get Jobs Statistics: /vos-api/asset-acquisition/v1/jobs/statistics",
        "backup configuration files: GET /vos-api/syndicate/v1/cloudEdges, GET /vos-api/syndicate/v1/cloudsources, GET /vos-api/asset-acquisition/v1/grooming-profiles, GET /vos-api/playoutcontrol/v1/channels",
-       "Teleport 17.5.2"
+       "Built-in Teleport 17.5.2 upgrade",
+       "Dark theme"
     ],
     "issues_fix": [
      ],
