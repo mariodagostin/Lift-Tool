@@ -236,7 +236,7 @@
   } ,
  {
     "Lift-tool_Version": "1.0.92",
-    "release_date": "X/XX/2025",
+    "release_date": "09/11/2025",
     "new_features": [
        "nmap tool for local network discovery",
        "pricing attribute for profile used (from the services button - Get Lis of ProfileId Used)",
