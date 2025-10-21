@@ -260,7 +260,8 @@
     "release_date": "XX/XX/2025",
     "new_features": [
        "Updating jQuery v3.7.1",
-       Adding in the dockerfile apt-get update && apt-get upgrade -y apache2 for laest apache version"
+       Adding in the dockerfile apt-get update && apt-get upgrade -y apache2 for laest apache version",
+       GraphQL Subscription - Websocket - Display messages
     ],
     "issues_fix": [
        "Removing try.js from flash player in the header.php"
