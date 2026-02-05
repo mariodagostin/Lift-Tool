@@ -264,11 +264,13 @@
        "GraphQL Subscription - Websocket - Display received messages",
        "TTYD for the POD in K8S environment",
        "Migration from PHP 7.4 to PHP 8.2",
-       "Check if vosmgt in ini files is alive and if the clientID is active"
+       "Check if vosmgt in ini files is alive and if the clientID is active",
+       "PDF exporter"
     ],
     "issues_fix": [
        "Removing try.js from flash player in the header.php",
-       "liftctl.sh version .28 with deployment fixes
+       "liftctl.sh version 1.28 with deployment fixes,
+       "Timeline dropping events"
      ],
     "deprecated": [
         
