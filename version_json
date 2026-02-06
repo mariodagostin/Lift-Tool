@@ -251,5 +251,24 @@
 		],
 		"issues_fix": [],
 		"deprecated": []
+	},
+	{
+		"Lift-tool_Version": "1.0.93",
+		"release_date": "02/02/2026",
+		"new_features": [
+			"Updating jQuery v3.7.1",
+			"Adding in the dockerfile apt-get update && apt-get upgrade -y apache2 for laest apache version",
+			"GraphQL Subscription - Websocket - Display received messages",
+			"TTYD for the POD in K8S environment",
+			"Migration from PHP 7.4 to PHP 8.2",
+			"Check if vosmgt in ini files is alive and if the clientID is active",
+			"Page PDF exporter"
+		],
+		"issues_fix": [
+			"Removing try.js from flash player in the header.php",
+			"liftctl.sh version 1.28 with deployment fixes",
+			"Playout Timeline dropping events"
+		],
+		"deprecated": []
 	}
 ]
