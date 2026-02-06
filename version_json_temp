@@ -1,279 +1,274 @@
 [
-  {
-    "Lift-tool_Version": "1.0.77",
-    "release_date": "05/25/2023",
-    "new_features": [
-      "No Tracking"
-    ],
-    "issues_fix": [
-      "No Tracking"
-    ]
-  },
-  {
-    "Lift-tool_Version": "1.0.78",
-    "release_date": "06/16/2023",
-    "new_features": [
-      "Rolling Upgrade Duration Estimation based on collected K8S data (VOS CNS Only)",
-      "Ask ChatGPT API integration",
-      "VOS Update tracking changes"
-    ],
-    "issues_fix": [
-      "None"
-    ]
-  },
-  {
-    "Lift-tool_Version": "1.0.80",
-    "release_date": "07/07/2023",
-    "new_features": [
-      "Return customerVersion in 'Get List of ProfileId Used'",
-      "/mux/v1/table-generators/{generatorId} API integration",
-      "CAS Scrambling API Integration",
-      "Transport Stream display improvements",
-      "Transport Stream & CAS Backup",
-      "Recorded TS File Analysis using tsp (Available from record page)" 
-    ],
-    "issues_fix": [
-      "Get Transport Streams Table display issue",
-      "TSoIP record using TSDUCK instead of FFmpeg"
-    ]
-  },
-  {
-    "Lift-tool_Version": "1.0.81",
-    "release_date": "09/01/2023",
-    "new_features": [
-       "Filter Jobs using AssetID and sourceFileName", 
-       "Adding ATM API /vos-api/atm/v1/variant-channels-filter", 
-       "Update online documentation link with https://techlibrary.harmonicinc.com/", 
-       "Update ATM Deployment API call (/atm/v1/manipulator-controller/deployment, /atm/v1/manipulator-deployment, /atm/v1/pmm/deployment, /atm/v1/vcm/deployment)", 
-       "Enabling SRT AES source generation with with AES=192/256", 
-       "Improving the source generation with RTMP using TS files",
-       "Adding for Job Display file engine being used INTERNAL/HARMONIC_CLOUD: (ex:fileTranscoder: HARMONIC_CLOUD)", 
-       "Rolling upgrade duration Improvement (segragation of Ingest and Egress Nodes)"
-    ],
-    "issues_fix": [
-      "None"
-  ]
-  },
- {
-    "Lift-tool_Version": "1.0.82",
-    "release_date": "09/27/2023",
-    "new_features": [
-         "Backup includes now /vos-api/configure/v1/settings/service, /vos-api/atm/v1/variant-channels", 
-       "Manage LLCU with XML API call without authentication (from LLCU menu)",
-       "Menu improvment: Drop down menu is displayed after 0.Xs in order to not be displayed automatically when mouse is hover",
-       "NMX API Auth (basic) and get devices list",
-       "Restore All Variant channels entries from a backup JSON",
-       "in K8S menu, you can see Metallb IPAddressPool, L2Advertisement",
-       "Record SRT allows AES 192 and 256",
-       "Check Origin URL: variable for LLCU pageSize",
-       "Adding New menu 'Mount Network Drives'",
-       "s3fs bucket mount from 'Mount Network Drives' menu",
-       "Azure Blob mount from 'Mount Network Drives' menu",
-       "tinyFileManager Integration"
-    ],
-    "issues_fix": [
-      "None"
-  ]
-  },
-  {
-    "Lift-tool_Version": "1.0.83",
-    "release_date": "10/30/2023",
-    "new_features": [
-       "Code changes to support PHP 8.2 - work in progress. Still PHP 7.4", 
-       "Subtitle Import from Fileserver",
-       "File360 API code removed from Lift-tool",
-       "Mount FileserverId from FileServer Page"
-    ],
-    "issues_fix": [
-      "Remove ChatGPT API due to token requests"
-  ]
-  },
-  {
-    "Lift-tool_Version": "1.0.84",
-    "release_date": "01/01/2024",
-    "new_features": [
-       "Teleport access for k8s cluster monitoring",
-       "Teleport CLI",
-       "ttyd integration for console access",
-       "GET vos-api/asset-acquisition/v1/settings/advanced-settings"
-    ],
-    "issues_fix": [
-      "None"
-  ]
-  },
-  {
-    "Lift-tool_Version": "1.0.85",
-    "release_date": "28/03/2024",
-    "new_features": [
-       "Automatic AA Thumbnails load",
-       "External Asset Storage (POTF) API Integration",
-       "Offline / Online Services during UpgradeToLatestEngine",
-       "RU duration calculation using a single Playbook for CTRL and Worker nodes",
-       "Improve AA list display when asset is not in the decisionQ (playout usage)",
-       "JSON Diff - Compare 2 JSON, included 2 profiles from the labwizard"
-    ],
-    "issues_fix": [
-      "None"
-  ]
-  },
-  {
-    "Lift-tool_Version": "1.0.86",
-    "release_date": "11/06/2024",
-    "new_features": [
-       "Microservice Balloon API integration",
-       "SRT Latency configuration for source generation (from settings page)",
-       "Origin Reserved Capacity",
-       "Live Event services (show LEW)",
-       "Display Records : /vos-api/asset-acquisition/v1/asset/record"
-    ],
-    "issues_fix": [
-      "SRT link for VLC showing encryptionkey"
-  ]
-  },
-  {
-    "Lift-tool_Version": "1.0.87",
-    "release_date": "07/19/2024",
-    "new_features": [
-       "Play Cloud Sources and Cloud Edges Video",
-       "Record Cloud Sources and Cloud Edges Video",
-       "Ini files from top frame management - improvement with filters",
-       "Internal Kms App",
-       "LLCU duration in AA page",
-       "Show Cloud Source/Edge Bitrate & sessions count in the CS/CE table",
-       "Display Thumbnail for AA in real size when mouseover",
-       "Usability: Reset filters for AA and Job pages",
-       "Jobid link in Misc column for AA VOD titles",
-       "Misc column icones shown according to the nature of the asset in AA page (not generic)",
-       "AA Export list: /vos-api/asset-acquisition/v1/export/ Display under AA menu",
-       "AA Packages list: /vos-api/asset-acquisition/v1/packages Display under AA menu",
-       "Live Event services highlighted - start and end time on mouseover"
-    ],
-    "issues_fix": [
-      "LLCU asset was shown as VOD if the AA label LLCU was not in position 0"
-  ]
-  },
-  {
-    "Lift-tool_Version": "1.0.88",
-    "release_date": "10/16/2024",
-    "new_features": [
-       "Asset Acquisition /vos-api/asset-acquisition/v1/asset/asset_id/action for Trimming",
-       "HMS Connector API Integration",
-       "PMM Manipulator Upstream Cache /atm/v1/muc/upstreams/*",
-       "Playout Update - inlcudes OPC events display"
-    ],
-    "issues_fix": [
-             "GET_URL Displays returns in HTML when http has error code"
-  ]
-  },
-{
-    "Lift-tool_Version": "1.0.89",
-    "release_date": "12/12/2024",
-    "new_features": [
-       "Playout - Realtime Timeline shows list of events",
-       "Logs > Usage data: Get Usage Data (/vos-api/usage-data/v1/*)",
-       "AA - Add multipe transcoding profiles in the Decision Queue",
-       "AA - Delete Asset Output (for multiple transcode w/ same profileid needs)",
-       "Remove the internet access check (3sec latency)",
-       "AA - Massive PerAssetPackaging change: /vos-api/asset-acquisition/v1/assets/destination-profile/massive-update"
-    ],
-    "issues_fix": [
-             "Sources Input3 was not displayed (only 1 and 2) - fixed",
-             "Titles in AA being transcoded multiple time => playback URL now available",             
-             "Dispay correct number of assets when filter is used",
-             "Add row in 'execute Job Workflows' - Missing add_row Javascript code",
-             "Settings page load - Faster page display",
-             "QR Code genration reworked and using internal JS -  No need of Internet connection"
-  ]
-  },
-{
-    "Lift-tool_Version": "1.0.90",
-    "release_date": "05/03/2025",
-    "new_features": [
-       "Audio Loudness (LKFS) Analyzer for File/UDP/SRT inputs",
-       "CS SRT stream content analyzing (no need to record file first anymore)",
-       "Built-in Grafana version 11.4 Update",
-       "Analyze media file with Mediainfo",
-       "Sorting Table Column available",
-       "POD Distribution per Node using CanvasJS"
-    ],
-    "issues_fix": [
-        "Balloon Creation Failing",
-        "Cloud Edges editing with egressPointId instead of pipeId"
-     ]
-  },
- {
-    "Lift-tool_Version": "1.0.91",
-    "release_date": "04/16/2025",
-    "new_features": [
-       "Json Editor replacing textarea",
-       "BlueTable Line Highlight when mouseover Event",
-       "Zookeper znodes and data display (only on VMS cluster) - Including search function tested on small VMS cluster only)",
-       "SMTP: vos-api/mail/v1/smtp",
-       "GPI: Box /vos-api/gpi/v1/gpibox",
-       "ATM Playout Channel: /atm/v1/playout-channels",
-       "ATM Content Generation Channel: /atm/v1/vcm/content-generation-channels",
-       "ATM Content Replacement Channel: /atm/v1/vcm/content-replacement-channels",
-       "ATM Live Event Clipping Channel: /atm/v1/vcm/live-event-clipping-channels",
-       "ATM Regional Ad Event Channel: /vos-api/atm/v1/vcm/regional-ads-channels",
-       "ATM sourceID mappings: /vos-api/atm/v1/vcm/variant-channels-sourceid-mapping",
-       "Get region details for current instance: /vos-api/cloudsourceprovisioner",
-       "AHDR SL-HDR1 CONFIG file records: /configure/v1/AHDR_SL_HDR1_CONFIG",
-       "LUT file records: /vos-api/configure/v1/LUT",
-       "Customer Data: /customer-data/v1/..",
-       "external OTT repackager: /vos-api/external-ott-repackager/v1/packaging_profile..",
-       "Analyze Content Streams",
-       "Source monitoring: vos-api/source-monitor/v1/monitor/...",
-       "ffmetrics for file VQ comparison",
-       "PHP curl_multi_exec implemented for Services OFFLINE/ONLINE/RESTART Only - API commands sent in parallel"
-    ],
-    "issues_fix": [
-        "liftctl.sh v1.25 fixing in containerd environment following command: liftctl.sh k8s deploy image image.tar, new liftctl.sh script Available on confluence",
-        "Post Massive source with Cloud Live Routing -> Program number not found"
-     ],
-    "deprecated": [
-        "VOS Validation tools with JSON inputs"
-     ]  
-  } ,
- {
-    "Lift-tool_Version": "1.0.92",
-    "release_date": "09/11/2025",
-    "new_features": [
-       "nmap tool for local network discovery",
-       "pricing attribute for profile used (from the services button - Get Lis of ProfileId Used)",
-       "Licenses details based on pricing attributes",
-       "New version of liftctl.sh including interactive dialog menu",
-       "Local SRT and UDP conversion for built-in HTML5 player",
-       "Delete AA source files - filepath : /vos-api/asset-acquisition/v1/asset/source-file/{id}",
-       "Get Jobs Statistics: /vos-api/asset-acquisition/v1/jobs/statistics",
-       "backup configuration files: GET /vos-api/syndicate/v1/cloudEdges, GET /vos-api/syndicate/v1/cloudsources, GET /vos-api/asset-acquisition/v1/grooming-profiles, GET /vos-api/playoutcontrol/v1/channels",
-       "Built-in Teleport 17.5.2 upgrade",
-       "Dark theme"
-    ],
-    "issues_fix": [
-     ],
-    "deprecated": [
-        
-     ]  
-  } ,
- {
-    "Lift-tool_Version": "1.0.93",
-    "release_date": "XX/XX/2025",
-    "new_features": [
-       "Updating jQuery v3.7.1",
-       "Adding in the dockerfile apt-get update && apt-get upgrade -y apache2 for laest apache version",
-       "GraphQL Subscription - Websocket - Display received messages",
-       "TTYD for the POD in K8S environment",
-       "Migration from PHP 7.4 to PHP 8.2",
-       "Check if vosmgt in ini files is alive and if the clientID is active",
-       "PDF exporter"
-    ],
-    "issues_fix": [
-       "Removing try.js from flash player in the header.php",
-       "liftctl.sh version 1.28 with deployment fixes,
-       "Timeline dropping events"
-     ],
-    "deprecated": [
-        
-     ]  
-  } 
- ]
+	{
+		"Lift-tool_Version": "1.0.77",
+		"release_date": "05/25/2023",
+		"new_features": [
+			"No Tracking"
+		],
+		"issues_fix": [
+			"No Tracking"
+		]
+	},
+	{
+		"Lift-tool_Version": "1.0.78",
+		"release_date": "06/16/2023",
+		"new_features": [
+			"Rolling Upgrade Duration Estimation based on collected K8S data (VOS CNS Only)",
+			"Ask ChatGPT API integration",
+			"VOS Update tracking changes"
+		],
+		"issues_fix": [
+			"None"
+		]
+	},
+	{
+		"Lift-tool_Version": "1.0.80",
+		"release_date": "07/07/2023",
+		"new_features": [
+			"Return customerVersion in 'Get List of ProfileId Used'",
+			"/mux/v1/table-generators/{generatorId} API integration",
+			"CAS Scrambling API Integration",
+			"Transport Stream display improvements",
+			"Transport Stream & CAS Backup",
+			"Recorded TS File Analysis using tsp (Available from record page)"
+		],
+		"issues_fix": [
+			"Get Transport Streams Table display issue",
+			"TSoIP record using TSDUCK instead of FFmpeg"
+		]
+	},
+	{
+		"Lift-tool_Version": "1.0.81",
+		"release_date": "09/01/2023",
+		"new_features": [
+			"Filter Jobs using AssetID and sourceFileName",
+			"Adding ATM API /vos-api/atm/v1/variant-channels-filter",
+			"Update online documentation link with https://techlibrary.harmonicinc.com/",
+			"Update ATM Deployment API call (/atm/v1/manipulator-controller/deployment, /atm/v1/manipulator-deployment, /atm/v1/pmm/deployment, /atm/v1/vcm/deployment)",
+			"Enabling SRT AES source generation with with AES=192/256",
+			"Improving the source generation with RTMP using TS files",
+			"Adding for Job Display file engine being used INTERNAL/HARMONIC_CLOUD: (ex:fileTranscoder: HARMONIC_CLOUD)",
+			"Rolling upgrade duration Improvement (segragation of Ingest and Egress Nodes)"
+		],
+		"issues_fix": [
+			"None"
+		]
+	},
+	{
+		"Lift-tool_Version": "1.0.82",
+		"release_date": "09/27/2023",
+		"new_features": [
+			"Backup includes now /vos-api/configure/v1/settings/service, /vos-api/atm/v1/variant-channels",
+			"Manage LLCU with XML API call without authentication (from LLCU menu)",
+			"Menu improvment: Drop down menu is displayed after 0.Xs in order to not be displayed automatically when mouse is hover",
+			"NMX API Auth (basic) and get devices list",
+			"Restore All Variant channels entries from a backup JSON",
+			"in K8S menu, you can see Metallb IPAddressPool, L2Advertisement",
+			"Record SRT allows AES 192 and 256",
+			"Check Origin URL: variable for LLCU pageSize",
+			"Adding New menu 'Mount Network Drives'",
+			"s3fs bucket mount from 'Mount Network Drives' menu",
+			"Azure Blob mount from 'Mount Network Drives' menu",
+			"tinyFileManager Integration"
+		],
+		"issues_fix": [
+			"None"
+		]
+	},
+	{
+		"Lift-tool_Version": "1.0.83",
+		"release_date": "10/30/2023",
+		"new_features": [
+			"Code changes to support PHP 8.2 - work in progress. Still PHP 7.4",
+			"Subtitle Import from Fileserver",
+			"File360 API code removed from Lift-tool",
+			"Mount FileserverId from FileServer Page"
+		],
+		"issues_fix": [
+			"Remove ChatGPT API due to token requests"
+		]
+	},
+	{
+		"Lift-tool_Version": "1.0.84",
+		"release_date": "01/01/2024",
+		"new_features": [
+			"Teleport access for k8s cluster monitoring",
+			"Teleport CLI",
+			"ttyd integration for console access",
+			"GET vos-api/asset-acquisition/v1/settings/advanced-settings"
+		],
+		"issues_fix": [
+			"None"
+		]
+	},
+	{
+		"Lift-tool_Version": "1.0.85",
+		"release_date": "28/03/2024",
+		"new_features": [
+			"Automatic AA Thumbnails load",
+			"External Asset Storage (POTF) API Integration",
+			"Offline / Online Services during UpgradeToLatestEngine",
+			"RU duration calculation using a single Playbook for CTRL and Worker nodes",
+			"Improve AA list display when asset is not in the decisionQ (playout usage)",
+			"JSON Diff - Compare 2 JSON, included 2 profiles from the labwizard"
+		],
+		"issues_fix": [
+			"None"
+		]
+	},
+	{
+		"Lift-tool_Version": "1.0.86",
+		"release_date": "11/06/2024",
+		"new_features": [
+			"Microservice Balloon API integration",
+			"SRT Latency configuration for source generation (from settings page)",
+			"Origin Reserved Capacity",
+			"Live Event services (show LEW)",
+			"Display Records : /vos-api/asset-acquisition/v1/asset/record"
+		],
+		"issues_fix": [
+			"SRT link for VLC showing encryptionkey"
+		]
+	},
+	{
+		"Lift-tool_Version": "1.0.87",
+		"release_date": "07/19/2024",
+		"new_features": [
+			"Play Cloud Sources and Cloud Edges Video",
+			"Record Cloud Sources and Cloud Edges Video",
+			"Ini files from top frame management - improvement with filters",
+			"Internal Kms App",
+			"LLCU duration in AA page",
+			"Show Cloud Source/Edge Bitrate & sessions count in the CS/CE table",
+			"Display Thumbnail for AA in real size when mouseover",
+			"Usability: Reset filters for AA and Job pages",
+			"Jobid link in Misc column for AA VOD titles",
+			"Misc column icones shown according to the nature of the asset in AA page (not generic)",
+			"AA Export list: /vos-api/asset-acquisition/v1/export/ Display under AA menu",
+			"AA Packages list: /vos-api/asset-acquisition/v1/packages Display under AA menu",
+			"Live Event services highlighted - start and end time on mouseover"
+		],
+		"issues_fix": [
+			"LLCU asset was shown as VOD if the AA label LLCU was not in position 0"
+		]
+	},
+	{
+		"Lift-tool_Version": "1.0.88",
+		"release_date": "10/16/2024",
+		"new_features": [
+			"Asset Acquisition /vos-api/asset-acquisition/v1/asset/asset_id/action for Trimming",
+			"HMS Connector API Integration",
+			"PMM Manipulator Upstream Cache /atm/v1/muc/upstreams/*",
+			"Playout Update - inlcudes OPC events display"
+		],
+		"issues_fix": [
+			"GET_URL Displays returns in HTML when http has error code"
+		]
+	},
+	{
+		"Lift-tool_Version": "1.0.89",
+		"release_date": "12/12/2024",
+		"new_features": [
+			"Playout - Realtime Timeline shows list of events",
+			"Logs > Usage data: Get Usage Data (/vos-api/usage-data/v1/*)",
+			"AA - Add multipe transcoding profiles in the Decision Queue",
+			"AA - Delete Asset Output (for multiple transcode w/ same profileid needs)",
+			"Remove the internet access check (3sec latency)",
+			"AA - Massive PerAssetPackaging change: /vos-api/asset-acquisition/v1/assets/destination-profile/massive-update"
+		],
+		"issues_fix": [
+			"Sources Input3 was not displayed (only 1 and 2) - fixed",
+			"Titles in AA being transcoded multiple time => playback URL now available",
+			"Dispay correct number of assets when filter is used",
+			"Add row in 'execute Job Workflows' - Missing add_row Javascript code",
+			"Settings page load - Faster page display",
+			"QR Code genration reworked and using internal JS -  No need of Internet connection"
+		]
+	},
+	{
+		"Lift-tool_Version": "1.0.90",
+		"release_date": "05/03/2025",
+		"new_features": [
+			"Audio Loudness (LKFS) Analyzer for File/UDP/SRT inputs",
+			"CS SRT stream content analyzing (no need to record file first anymore)",
+			"Built-in Grafana version 11.4 Update",
+			"Analyze media file with Mediainfo",
+			"Sorting Table Column available",
+			"POD Distribution per Node using CanvasJS"
+		],
+		"issues_fix": [
+			"Balloon Creation Failing",
+			"Cloud Edges editing with egressPointId instead of pipeId"
+		]
+	},
+	{
+		"Lift-tool_Version": "1.0.91",
+		"release_date": "04/16/2025",
+		"new_features": [
+			"Json Editor replacing textarea",
+			"BlueTable Line Highlight when mouseover Event",
+			"Zookeper znodes and data display (only on VMS cluster) - Including search function tested on small VMS cluster only)",
+			"SMTP: vos-api/mail/v1/smtp",
+			"GPI: Box /vos-api/gpi/v1/gpibox",
+			"ATM Playout Channel: /atm/v1/playout-channels",
+			"ATM Content Generation Channel: /atm/v1/vcm/content-generation-channels",
+			"ATM Content Replacement Channel: /atm/v1/vcm/content-replacement-channels",
+			"ATM Live Event Clipping Channel: /atm/v1/vcm/live-event-clipping-channels",
+			"ATM Regional Ad Event Channel: /vos-api/atm/v1/vcm/regional-ads-channels",
+			"ATM sourceID mappings: /vos-api/atm/v1/vcm/variant-channels-sourceid-mapping",
+			"Get region details for current instance: /vos-api/cloudsourceprovisioner",
+			"AHDR SL-HDR1 CONFIG file records: /configure/v1/AHDR_SL_HDR1_CONFIG",
+			"LUT file records: /vos-api/configure/v1/LUT",
+			"Customer Data: /customer-data/v1/..",
+			"external OTT repackager: /vos-api/external-ott-repackager/v1/packaging_profile..",
+			"Analyze Content Streams",
+			"Source monitoring: vos-api/source-monitor/v1/monitor/...",
+			"ffmetrics for file VQ comparison",
+			"PHP curl_multi_exec implemented for Services OFFLINE/ONLINE/RESTART Only - API commands sent in parallel"
+		],
+		"issues_fix": [
+			"liftctl.sh v1.25 fixing in containerd environment following command: liftctl.sh k8s deploy image image.tar, new liftctl.sh script Available on confluence",
+			"Post Massive source with Cloud Live Routing -> Program number not found"
+		],
+		"deprecated": [
+			"VOS Validation tools with JSON inputs"
+		]
+	},
+	{
+		"Lift-tool_Version": "1.0.92",
+		"release_date": "09/11/2025",
+		"new_features": [
+			"nmap tool for local network discovery",
+			"pricing attribute for profile used (from the services button - Get Lis of ProfileId Used)",
+			"Licenses details based on pricing attributes",
+			"New version of liftctl.sh including interactive dialog menu",
+			"Local SRT and UDP conversion for built-in HTML5 player",
+			"Delete AA source files - filepath : /vos-api/asset-acquisition/v1/asset/source-file/{id}",
+			"Get Jobs Statistics: /vos-api/asset-acquisition/v1/jobs/statistics",
+			"backup configuration files: GET /vos-api/syndicate/v1/cloudEdges, GET /vos-api/syndicate/v1/cloudsources, GET /vos-api/asset-acquisition/v1/grooming-profiles, GET /vos-api/playoutcontrol/v1/channels",
+			"Built-in Teleport 17.5.2 upgrade",
+			"Dark theme"
+		],
+		"issues_fix": [],
+		"deprecated": []
+	},
+	{
+		"Lift-tool_Version": "1.0.93",
+		"release_date": "02/02/2025",
+		"new_features": [
+			"Updating jQuery v3.7.1",
+			"Adding in the dockerfile apt-get update && apt-get upgrade -y apache2 for laest apache version",
+			"GraphQL Subscription - Websocket - Display received messages",
+			"TTYD for the POD in K8S environment",
+			"Migration from PHP 7.4 to PHP 8.2",
+			"Check if vosmgt in ini files is alive and if the clientID is active",
+			"Page PDF exporter"
+		],
+		"issues_fix": [
+			"Removing try.js from flash player in the header.php",
+			"liftctl.sh version 1.28 with deployment fixes",
+			"Playout Timeline dropping events"
+		],
+		"deprecated": []
+	}
+]
