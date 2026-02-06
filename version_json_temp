@@ -254,7 +254,7 @@
 	},
 	{
 		"Lift-tool_Version": "1.0.93",
-		"release_date": "02/02/2025",
+		"release_date": "02/02/2026",
 		"new_features": [
 			"Updating jQuery v3.7.1",
 			"Adding in the dockerfile apt-get update && apt-get upgrade -y apache2 for laest apache version",
