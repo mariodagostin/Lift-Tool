@@ -270,5 +270,16 @@
 			"Playout Timeline dropping events"
 		],
 		"deprecated": []
+	},
+	{
+		"Lift-tool_Version": "1.0.94",
+		"release_date": "XX/XX/2026",
+		"new_features": [
+			"Audio Loudness LKFS fw/ http input"
+		],
+		"issues_fix": [
+		],
+		"deprecated": []
 	}
+
 ]
