@@ -275,9 +275,12 @@
 		"Lift-tool_Version": "1.0.94",
 		"release_date": "XX/XX/2026",
 		"new_features": [
-			"Audio Loudness LKFS fw/ http input"
+			"Audio Loudness LKFS w/ http input",
+            "Teleport Improvement (Teleport replacing Bomgar: Port Forwarding, Request management)",
+            "Save parameters from settings page w/o submitting form"
 		],
 		"issues_fix": [
+        	"Table sorting"
 		],
 		"deprecated": []
 	}
