@@ -277,7 +277,8 @@
 		"new_features": [
 			"Audio Loudness LKFS w/ http input",
             "Teleport Improvement (Teleport replacing Bomgar: Port Forwarding, Request management)",
-            "Save parameters from settings page w/o submitting form"
+            "Save parameters from settings page w/o submitting form",
+            "SSM support for UDP Audio Loudness analysis and UDP record"
 		],
 		"issues_fix": [
         	"Table sorting"
