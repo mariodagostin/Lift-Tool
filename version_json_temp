@@ -278,12 +278,16 @@
 			"Audio Loudness LKFS w/ http input",
             "Teleport Improvement (Teleport replacing Bomgar: Port Forwarding, Request management)",
             "Save parameters from settings page w/o submitting form",
-            "SSM support for UDP Audio Loudness analysis and UDP record"
+            "SSM support for UDP Audio Loudness analysis and UDP record",
+            "Popup Player",
+            "General Response time improvment"
 		],
 		"issues_fix": [
         	"Table sorting"
 		],
-		"deprecated": []
+		"deprecated": [
+            "Mesos orchestrator"
+		]
 	}
 
 ]
