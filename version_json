@@ -270,5 +270,24 @@
 			"Playout Timeline dropping events"
 		],
 		"deprecated": []
+	},
+	{
+		"Lift-tool_Version": "1.0.94",
+		"release_date": "14/04/2026",
+		"new_features": [
+            "Audio Loudness analysis LKFS w/ http input",
+            "Teleport Improvement (Teleport replacing Bomgar: Port Forwarding, Request management, firefox, ...)",
+            "Automatically Saving parameters from settings page w/o submitting form",
+            "SSM support for UDP Audio Loudness analysis and UDP record",
+            "Popup Player - no need to reload the page",
+            "General lift-tool Response time improvment"		],
+		"issues_fix": [
+        	"Table sorting",
+			"live thumbnail with filtering active"
+		],
+		"deprecated": [
+            "Mesos orchestrator"
+		]
 	}
+
 ]
