@@ -294,7 +294,9 @@
 		"release_date": "XX/XX/2026",
 		"new_features": [
             "Record VOD or Live Content (DASH/HLS urls)",
-            "Display CS/CE connections in a single view"
+            "Display CS/CE connections in a single view",
+            "GraphiQL Schema Explorer",
+			"Support of PHP 8.5"
 		],
 		"issues_fix": [
 		],
