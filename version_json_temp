@@ -299,6 +299,7 @@
 			"Support of PHP 8.5"
 		],
 		"issues_fix": [
+            "TELEPORT Access using Lift-tool on VM (modify local /etc/hosts file"
 		],
 		"deprecated": [
 		]
