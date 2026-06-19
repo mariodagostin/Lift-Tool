@@ -299,7 +299,8 @@
 			"Support of PHP 8.5"
 		],
 		"issues_fix": [
-            "TELEPORT Access using Lift-tool on VM (modify local /etc/hosts file"
+            "TELEPORT Access using Lift-tool on VM (modify local /etc/hosts file)",
+            "Delete Active Notfications with PHP 8.X"
 		],
 		"deprecated": [
 		]
