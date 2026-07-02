@@ -296,7 +296,8 @@
             "Record VOD or Live Content (DASH/HLS urls)",
             "Display CS/CE connections in a single view",
             "GraphiQL Schema Explorer",
-			"Support of PHP 8.5"
+			"Support of PHP 8.5",
+           "LOCAL <-> POD File transfer"
 		],
 		"issues_fix": [
             "TELEPORT Access using Lift-tool on VM (modify local /etc/hosts file)",
