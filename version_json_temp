@@ -291,7 +291,7 @@
 	},
 	{
 		"Lift-tool_Version": "1.0.95",
-		"release_date": "XX/XX/2026",
+		"release_date": "09/07/2026",
 		"new_features": [
             "Record VOD or Live Content (DASH/HLS urls)",
             "Display CS/CE connections in a single view",
