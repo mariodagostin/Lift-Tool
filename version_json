@@ -288,6 +288,24 @@
 		"deprecated": [
             "Mesos orchestrator"
 		]
+	},
+	{
+		"Lift-tool_Version": "1.0.95",
+		"release_date": "09/07/2026",
+		"new_features": [
+            "Record VOD or Live Content (DASH/HLS urls)",
+            "Display CS/CE connections in a single view",
+            "GraphiQL Schema Explorer",
+			"Support of PHP 8.5",
+           "LOCAL <-> POD File transfer"
+		],
+		"issues_fix": [
+            "TELEPORT Access using Lift-tool on VM (modify local /etc/hosts file)",
+            "Delete Active Notfications with PHP 8.X"
+		],
+		"deprecated": [
+		]
 	}
+
 
 ]
