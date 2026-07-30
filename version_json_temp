@@ -305,6 +305,18 @@
 		],
 		"deprecated": [
 		]
+	},
+{
+		"Lift-tool_Version": "1.0.96",
+		"release_date": "XX/XX/2026",
+		"new_features": [
+            "TSDuck upgrade (3.35-3258 => 3.44-4676)",
+            "2GB file upload support for source generation"
+		],
+		"issues_fix": [
+		],
+		"deprecated": [
+		]
 	}
 
 
