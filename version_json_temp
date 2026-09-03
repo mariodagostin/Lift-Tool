@@ -311,7 +311,9 @@
 		"release_date": "XX/XX/2026",
 		"new_features": [
             "TSDuck upgrade (3.35-3258 => 3.44-4676)",
-            "2GB file upload support for source generation"
+            "2GB file upload support for source generation",
+			"Settings parameters are available in collapsible menus",
+            'Teleport: new daemonset ds/vos-traefik for vosha port-forwarding" 
 		],
 		"issues_fix": [
 		],
