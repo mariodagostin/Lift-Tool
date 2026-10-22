@@ -321,7 +321,16 @@
 		],
 		"deprecated": [
 		]
+	},
+{
+		"Lift-tool_Version": "1.0.97",
+		"release_date": "22/10/2026",
+		"new_features": [
+            "PHP 8.5.11 support to address PHP2SHELL vulnerability : CVE-2026-109618, CVE-2026-109619 "
+		],
+		"issues_fix": [
+		],
+		"deprecated": [
+		]
 	}
-
-
 ]
