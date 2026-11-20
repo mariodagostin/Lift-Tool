@@ -332,5 +332,20 @@
 		],
 		"deprecated": [
 		]
+	},
+{
+		"Lift-tool_Version": "1.0.98",
+		"release_date": "19/11/2026",
+		"new_features": [
+			"PHP 8.5.13 support to addressCritical Flaws, Including Bugs That Could Allow Remote Code Execution vulnerability : CVE-2026-115560, CVE-2026-129182, CVE-2026-126714, CVE-2026-129289, CVE-2026-129474, CVE-2026-129481, CVE-2026-129496, CVE-2026-129291" 
+		],
+		"issues_fix": [
+		],
+		"deprecated": [
+		]
 	}
+
+
+
+
 ]
